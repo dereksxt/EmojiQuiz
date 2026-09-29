@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "Guess the movie: 👦⚡👓🏰",
+    "correct_answer": "Harry Potter",
+    "incorrect_answers": ["Lord of the Rings", "Percy Jackson", "The Chronicles of Narnia"]
+  },
+  {
+    "id": 2,
+    "question": "Guess the movie: 🚢🧊🥶🎻",
+    "correct_answer": "Titanic",
+    "incorrect_answers": ["Poseidon", "Pirates of the Caribbean", "Jaws"]
+  },
+  {
+    "id": 3,
+    "question": "Guess the movie: 🦁👑🌅🐗",
+    "correct_answer": "The Lion King",
+    "incorrect_answers": ["Madagascar", "Tarzan", "The Jungle Book"]
+  },
+  {
+    "id": 4,
+    "question": "Guess the movie: 🦇👨🃏🌃",
+    "correct_answer": "Batman",
+    "incorrect_answers": ["Spider-Man", "Superman", "Iron Man"]
+  },
+  {
+    "id": 5,
+    "question": "Guess the movie: 👽🚲🌕📞",
+    "correct_answer": "E.T. the Extra-Terrestrial",
+    "incorrect_answers": ["Alien", "Star Wars", "Men in Black"]
+  },
+  {
+    "id": 6,
+    "question": "Guess the movie: 🦖🦕🚗🏃‍♂️",
+    "correct_answer": "Jurassic Park",
+    "incorrect_answers": ["Godzilla", "King Kong", "Night at the Museum"]
+  },
+  {
+    "id": 7,
+    "question": "Guess the movie: 🕷️👨🕸️🏙️",
+    "correct_answer": "Spider-Man",
+    "incorrect_answers": ["Venom", "Ant-Man", "Deadpool"]
+  },
+  {
+    "id": 8,
+    "question": "Guess the movie: 🏴‍☠️🚢⚓🦜",
+    "correct_answer": "Pirates of the Caribbean",
+    "incorrect_answers": ["Peter Pan", "Treasure Planet", "Master and Commander"]
+  },
+  {
+    "id": 9,
+    "question": "Guess the movie: 🍫🏭🎩🎟️",
+    "correct_answer": "Charlie and the Chocolate Factory",
+    "incorrect_answers": ["Matilda", "Alice in Wonderland", "The Wizard of Oz"]
+  },
+  {
+    "id": 10,
+    "question": "Guess the movie: 🧸🤠🚀🦖",
+    "correct_answer": "Toy Story",
+    "incorrect_answers": ["Monsters, Inc.", "The Lego Movie", "Small Soldiers"]
+  },
+  {
+    "id": 11,
+    "question": "Guess the movie: 🔴💊🕶️💻",
+    "correct_answer": "The Matrix",
+    "incorrect_answers": ["Inception", "Blade Runner", "Tron"]
+  },
+  {
+    "id": 12,
+    "question": "Guess the movie: 🦈🌊⛵🩸",
+    "correct_answer": "Jaws",
+    "incorrect_answers": ["The Meg", "Deep Blue Sea", "Finding Nemo"]
+  },
+  {
+    "id": 13,
+    "question": "Guess the movie: 💍🌋🧙‍♂️🧝‍♂️",
+    "correct_answer": "The Lord of the Rings",
+    "incorrect_answers": ["The Hobbit", "Warcraft", "Dungeons & Dragons"]
+  },
+  {
+    "id": 14,
+    "question": "Guess the movie: ❄️👸⛄🏔️",
+    "correct_answer": "Frozen",
+    "incorrect_answers": ["Tangled", "Moana", "Brave"]
+  },
+  {
+    "id": 15,
+    "question": "Guess the movie: 🐭👨‍🍳🍲🗼",
+    "correct_answer": "Ratatouille",
+    "incorrect_answers": ["Stuart Little", "Flushed Away", "The Secret Life of Pets"]
+  },
+  {
+    "id": 16,
+    "question": "Guess the movie: ⚔️🌌🤖👽",
+    "correct_answer": "Star Wars",
+    "incorrect_answers": ["Star Trek", "Guardians of the Galaxy", "Dune"]
+  },
+  {
+    "id": 17,
+    "question": "Guess the movie: 🎈🏠👴👦",
+    "correct_answer": "Up",
+    "incorrect_answers": ["Coco", "Inside Out", "Soul"]
+  },
+  {
+    "id": 18,
+    "question": "Guess the movie: 🦍🏙️🧗‍♂️🛩️",
+    "correct_answer": "King Kong",
+    "incorrect_answers": ["Planet of the Apes", "Rampage", "Tarzan"]
+  },
+  {
+    "id": 19,
+    "question": "Guess the movie: 👻🚫🔫🚗",
+    "correct_answer": "Ghostbusters",
+    "incorrect_answers": ["Men in Black", "Casper", "Scooby-Doo"]
+  },
+  {
+    "id": 20,
+    "question": "Guess the movie: 🐼🥋🍜🐉",
+    "correct_answer": "Kung Fu Panda",
+    "incorrect_answers": ["Mulan", "Karate Kid", "Teenage Mutant Ninja Turtles"]
+  }
+]

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emoji Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- contenedor que contiene todo -->
+    <main class="main-container">
+
+        <!-- landing Page -->
+        <section id="landing-screen" class="screen active">
+            <div class="logo">Movies Quiz</div>
+            <h1>Test your mind with Emoji Quiz</h1>
+            <p>How much do you know about movies? Prove it!</p>
+            
+            <div class="login-box">
+                <label for="nickname">Your name</label>
+                <input type="text" id="nickname" placeholder="Enter your name..." autocomplete="off">
+                <button id="btn-start">Start Game</button>
+            </div>
+        </section>
+
+        <!-- pantalla de juego -->
+        <section id="quiz-screen" class="screen hidden">
+            <header class="quiz-header">
+                <div class="logo">🎬 EmojiQuiz</div>
+                <div class="player-info">
+                    <span id="display-player">👤 Player: ---</span>
+                    <span id="display-round">🏆 Round 1 of 10</span>
+                </div>
+            </header>
+
+            <!-- aqui se pondran las pregutas con js -->
+            <div id="questions-container"></div>
+
+            <button id="btn-check" class="hidden">Check Answers</button>
+        </section>
+
+        <!-- model del resultado final -->
+        <div id="result-modal" class="modal hidden">
+            <div class="modal-content">
+                <h2 id="modal-title">Congratulations!</h2>
+                <p id="modal-message">You won the game.</p>
+                <div class="score-board">
+                    <p>FINAL SCORE</p>
+                    <h3 id="modal-score">0 / 0 Correct</h3>
+                </div>
+                <button id="btn-restart">Play Again</button>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- ENLACE DE JS -->
+    <script src="script.js"></script>
+</body>
+</html>
